@@ -1,0 +1,10 @@
+comtypes==1.1.11
+flake8==4.0.1
+mccabe==0.6.1
+PyAudio==0.2.12
+pycodestyle==2.8.0
+pyflakes==2.4.0
+pypiwin32==223
+pyttsx3==2.90
+pywin32==304
+SpeechRecognition==3.8.1
